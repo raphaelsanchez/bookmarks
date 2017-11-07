@@ -1,12 +1,10 @@
-## Icons Webfonts
+## Icons & Webfonts
 
 - [IcoMoon](https://icomoon.io)  
 IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites.
 
 - [Fontello](http://fontello.com)  
 Fontello is a tool to aggregate several iconic fonts between them, then you can sort them and keep only the icons you need in your projects.
-
-## Icons vectorielles
 
 - [Font Awesome](http://fontawesome.io)  
 Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS
