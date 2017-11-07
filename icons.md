@@ -1,0 +1,3 @@
+- [IcoMoon](https://icomoon.io)
+- [Font Awesome](http://fontawesome.io)
+- [FlatIcon](https://www.flaticon.com)
