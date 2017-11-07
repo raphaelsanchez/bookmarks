@@ -4,7 +4,7 @@ Banque d'images libre de droits, outils d'optimisation et autres...
 - [Optimiser ses images pour le web](#optimiser-ses-images-pour-le-web)
 
 ## Banques d'images libres
-- [Unsplash](https://unsplash.com)   
+- [Unsplash](https://unsplash.com) ★   
 *Beautiful, free photos gifted by the world’s most generous community of photographers.*
 - [Stockio](https://www.stockio.com)  
 *Free Photos, Vectors, Icons, Fonts and Videos. Thousands of files for personal and commercial use*
