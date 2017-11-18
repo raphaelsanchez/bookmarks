@@ -16,3 +16,7 @@ Banque d'images libre de droits, outils d'optimisation et autres...
 *Compressor.io is a powerful online tool for reducing drastically the size of your images and photos whilst maintaining a high quality with almost no difference before and after compression.*
 - [ImageOptim](https://imageoptim.com/fr)  
 *ImageOptim propose une GUI avec différents outils d'optimisation*
+
+## SVG
+- [SVGator](https://www.svgator.com)  
+Animate SVG easily. Import, animate and export
