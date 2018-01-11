@@ -1,4 +1,4 @@
-# Web App
+# Web Apps
 Une selection d'outils qui peuvent éviter pas mal de dev inutile
 
 ## Appointment / Scheduling
