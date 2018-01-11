@@ -1,4 +1,5 @@
-# Web Services
+# Web App
+Une selection d'outils qui peuvent éviter pas mal de dev inutile
 
 ## Appointment / Scheduling
 - [Setmore](https://www.setmore.com)
