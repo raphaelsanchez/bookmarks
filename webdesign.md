@@ -5,6 +5,11 @@
 [HTML5 Doctor](http://html5doctor.com)  
 Helping you implement HTML5
 
+## Snippets
+
+[Little Snippets](http://littlesnippets.net)  
+CSS3/HTML snippets blog to inspire your website designs
+
 ## Inspirations
 
 [Webdesign Inspiration](http://www.webdesign-inspiration.com)  
