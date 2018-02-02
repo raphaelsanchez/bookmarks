@@ -1,5 +1,10 @@
 # Webdesign
 
+## Ressources
+
+[Responsive Design Is](https://responsivedesign.is)  
+...the combination of flexible grids, flexible images, and media queries. We help take the complexity out of responsive design with details on Design, Development and Strategy.
+
 ## Tools
 
 [HTML5 Doctor](http://html5doctor.com)  
