@@ -24,7 +24,3 @@ KEY	 : 36guidoline38
 ## Café de Rouen
 - SSID : Livebox-8924
 - KEY	 : CDR19543
-
-## Ginette
-- SSID : Box-AE849EBC
-- KEY  :  AA51E17EF5D6EE79137ACF7E6FDA54
