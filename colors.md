@@ -1,6 +1,7 @@
 ## Colors Palette
 
 - [Adobe Color CC](https://color.adobe.com/fr/create/color-wheel/)
+- [Google Art Palette](https://artsexperiments.withgoogle.com/artpalette/)
 
 ## Gradients
 
