@@ -1,5 +1,5 @@
 ## Ressource
-[DevDocs](http://devdocs.io)  
+- [DevDocs](http://devdocs.io)  
 DevDocs combines multiple API documentations in a fast, organized, and searchable interface.
 
 ## Mockups
