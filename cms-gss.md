@@ -1,4 +1,4 @@
-# CMS
+# CMS & GSS
 
 ## Headless CMS
 
