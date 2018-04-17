@@ -11,3 +11,5 @@ Contentful provides a content infrastructure that enables teams to power content
 - [Cockpit](https://getcockpit.com)  
 Simple Content Platform to manage any structured content. A self-hosted headless and api-driven CMS
 
+## Générateurs de site static
+- [vuePress](https://vuepress.vuejs.org)
