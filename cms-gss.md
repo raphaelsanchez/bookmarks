@@ -14,3 +14,10 @@ Simple Content Platform to manage any structured content. A self-hosted headless
 ## Générateurs de site static
 - [vuePress](https://vuepress.vuejs.org)  
 Vue-powered Static Site Generator
+
+- [Statik](https://getstatik.com/)  
+Languages: Python | Templates: Jinja2, Mustache
+
+- [Brunch](https://brunch.io/)  
+An ultra-fast HTML5 build tool. Capable of static site generation.  
+Languages: JavaScript | Templates:Any JS
