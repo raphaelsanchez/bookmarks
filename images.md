@@ -10,7 +10,7 @@ Banque d'images libre de droits, outils d'optimisation et autres...
 *Free Photos, Vectors, Icons, Fonts and Videos. Thousands of files for personal and commercial use*
 - [Stocksnap.io](https://stocksnap.io)
 *Hundreds of high resolution images added weekly. Free from copyright restrictions.*
-- [unDraw.co](https://undraw.co/illustrations)  
+- [unDraw.co](https://undraw.co/illustrations)
 *Browse to find the images that fit your needs and click to download. Take advantage of the on-the-fly color image generation to match your brand identity.*
 
 ## Optimiser ses images pour le web
